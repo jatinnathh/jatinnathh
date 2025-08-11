@@ -1,6 +1,6 @@
 # Jatin Nath  
 
-Full-stack builder. AI tinkerer. Turning abstract ideas into working systems.  
+Data Scientist . Full-stack builder. AI tinkerer. Turning abstract ideas into working systems.  
 
 ---
 
