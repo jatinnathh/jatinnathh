@@ -41,9 +41,9 @@ Full ML pipeline for Ames dataset.
 
 ---
 
-### Machine Learning From Scratch  
+### ML-DL From Scratch  
 Rebuilt core algorithms without external ML libraries.  
-- Linear Regression, Logistic Regression, Decision Trees, KNN, Naive Bayes  
+-  Decision Trees, KNN, Naive Bayes, Random Forest , CNN  etc 
 - Clean, reusable NumPy-based implementations  
 
 ---
