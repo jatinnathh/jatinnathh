@@ -1,16 +1,16 @@
 # Hi, I'm Jatin Nath
 
-I'm a **Data Scientist** and **Full-Stack Developer** who loves turning ideas into real, working products.  
-For me, it's not just about writing code—it's about designing intelligent systems, building clean architectures, and solving problems in a way that's scalable and impactful.
+I'm a **Data Scientist** and **Full-Stack Developer** ng ideas into working products.  
+
 
 ---
 
 ## About Me
 - Currently studying at **Indian Institute of Information Technology, Kottayam**
-- Passionate about **AI, Machine Learning, and Deep Learning**
-- Experienced in **React Native**, **FastAPI**, **Streamlit**, **Docker**, and **MySQL**
-- I enjoy building complete solutions—from the first spark of an idea all the way to deployment
-- Always learning, especially the theory behind algorithms and how to implement them from scratch
+- Ex intern at **Innova Solutions**
+- Passionate about **Data Science, Machine Learning, and Deep Learning , Reinforcement Learning**
+- Experienced in **React Native**, **FastAPI**, **Streamlit**,**Diffusion**,**Docker**, and **MySQL**
+
 
 ---
 
@@ -42,7 +42,7 @@ A mobile app to scan QR codes and fetch product details (including Amazon data) 
 
 ---
 
-### Ames Housing Price Prediction
+### MLOps Housing Price Prediction
 A complete machine learning pipeline for predicting housing prices using the Ames dataset.  
 - **Built With:** Python, scikit-learn, Pandas, NumPy  
 - Preprocessing pipeline with 81 engineered features  
@@ -60,13 +60,13 @@ Recreated core ML algorithms without external libraries (except NumPy) to unders
 ## Tech Stack
 
 **Languages:**  
-Python, JavaScript, SQL, HTML, CSS
+Python, JavaScript, SQL.
 
 **Frameworks & Libraries:**  
-React Native, Streamlit, FastAPI, PyTorch, scikit-learn, Plotly
+AWS,React Native, Streamlit, FastAPI, PyTorch, scikit-learn, Plotly, Tensorflow.
 
 **Databases:**  
-MySQL, SQLite
+MySQL, SQLite, MongoDB
 
 **Tools & Platforms:**  
 Docker, Git, ngrok, Expo
@@ -74,8 +74,11 @@ Docker, Git, ngrok, Expo
 ---
 
 ## GitHub Stats
-![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatin-nath&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-nath&layout=compact&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatinnathh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinnathh)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
