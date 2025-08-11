@@ -34,14 +34,6 @@ An interactive platform for exploring datasets, training models, and visualizing
 
 ---
 
-### QR Scanner Product Info App
-A mobile app to scan QR codes and fetch product details (including Amazon data) or handle generic links intelligently.  
-- **Built With:** React Native (Expo), FastAPI, MySQL  
-- Stores product-user mapping in the database  
-- Differentiates between product links and regular links, prompting users appropriately
-
----
-
 ### MLOps Housing Price Prediction
 A complete machine learning pipeline for predicting housing prices using the Ames dataset.  
 - **Built With:** Python, scikit-learn, Pandas, NumPy  
@@ -56,6 +48,15 @@ Recreated core ML algorithms without external libraries (except NumPy) to unders
 - Focused on reusable code and mathematical clarity
 
 ---
+
+---
+
+### QR Scanner Product Info App
+A mobile app to scan QR codes and fetch product details (including Amazon data) or handle generic links intelligently.  
+- **Built With:** React Native (Expo), FastAPI, MySQL  
+- Stores product-user mapping in the database  
+- Differentiates between product links and regular links, prompting users appropriately
+  
 
 ## Tech Stack
 
@@ -83,8 +84,8 @@ Docker, Git, ngrok, Expo
 ---
 
 ## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/jatin-nath)  
-- Email: **your.email@example.com**  
+- [LinkedIn](https://www.linkedin.com/in/jatinnath1)  
+- Email: **jatinnath1111@gmail.com**  
 
 ---
 
