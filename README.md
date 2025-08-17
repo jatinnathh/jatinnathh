@@ -73,7 +73,7 @@ Docker, Git, ngrok, Expo
 ---
 
 ## GitHub Stats  
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=jatinnathh&theme=radical&hide_border=true&v=2)](https://git.io/streak-stats)
+[![GitHub Streak]()
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatinnathh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
