@@ -2,7 +2,7 @@
 
 Data Scientist . Full-stack builder. AI tinkerer. Turning abstract ideas into working systems.  
 
-------
+---
 
 ## About  
 - Currently at **Indian Institute of Information Technology, Kottayam**  
