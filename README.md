@@ -9,7 +9,7 @@ Data Scientist . Full-stack builder. AI tinkerer. Turning abstract ideas into wo
 - Former intern at **Innova Solutions**  
 - Work spans **Data Science**, **Deep Learning**, **Reinforcement Learning**  
 - Shipping with **React Native**, **FastAPI**, **Streamlit**, **Diffusion**, **Docker**, **MySQL**  
-
+ 
 ---
 
 ## Selected Work  
