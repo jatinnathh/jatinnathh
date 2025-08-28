@@ -75,9 +75,12 @@ Docker, Git, ngrok, Expo
 ## GitHub Stats  
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatinnathh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinnathh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=jatinnathh&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinnathh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinnathh&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=jatinnathh&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
