@@ -8,7 +8,7 @@ Data Scientist . Full-stack builder. AI tinkerer. Turning abstract ideas into wo
 - Currently at **Indian Institute of Information Technology, Kottayam**  
 - Former intern at **Innova Solutions**  
 - Work spans **Data Science**, **Deep Learning**, **Reinforcement Learning**  
-- Shipping with **React Native**, **FastAPI**, **Streamlit**, **Diffusion**, **Docker**, **MySQL**  
+- Shipping with **React Native**, **FastAPI**, **Streamlit**, **Diffusion**, **Docker**, **MySQL**   
  
 ---
 
