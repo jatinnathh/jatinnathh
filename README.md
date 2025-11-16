@@ -88,4 +88,4 @@ Docker, Git, ngrok, Expo
 
 ---
 
-*"Not chasing trends. Building systems that last."*  
+Not chasing trends. Building systems that last.  
