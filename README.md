@@ -29,7 +29,8 @@ End-to-end, no-code ML exploration and training environment.
 - Streamlit + Python + scikit-learn + Plotly  
 - Modular design: Data Viz, ML Training, DL Training  
 - Tracks total models trained and datasets processed  
-- Minimal UI with maximum speed  
+- Minimal UI with maximum speed
+- see here : http://51.21.222.225:8501/
 
 ---
 
@@ -47,7 +48,13 @@ Rebuilt core algorithms without external ML libraries.
 - Clean, reusable NumPy-based implementations  
 
 ---
+### Gradient descent cisualizer 
+Built a Visualizer to see how gradient changes in different algorithms 
+- Gradient descent , Lasso , Ridge , Sub-Gradient , Newtons Methods
+-  Graphs to see how valeus change with increasing epochs
+-  see here : https://jatinoptimizer.streamlit.app/
 
+---
 ### QR Scanner Product Info App  
 Scan → Detect → Fetch or Route.  
 - React Native (Expo) + FastAPI + MySQL  
