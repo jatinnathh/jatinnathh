@@ -16,6 +16,22 @@ Turning abstract ideas into working systems.
 
 ## Selected Work
 
+### DSAgent — Autonomous Data Science Agent (ongoing)
+
+AI agent that analyzes datasets and generates insights, models, and reports automatically.
+🔗https://jatin-dsagent.vercel.app/
+* Next.js + Clerk Auth + Three.js + Tailwind + Render
+* Autonomous pipeline: upload → analyze → visualize → model
+* Interactive UI with custom 3D data visualizations
+* Secure dashboard with protected routes
+* Built as a full-stack intelligent system, not just a UI wrapper
+
+> Includes middleware-based auth protection and modern UI system design 
+
+---
+
+
+
 ### NeuroFusion — AI Text-to-Image
 
 Custom diffusion pipeline for text-to-image and image-to-image generation.
@@ -41,19 +57,6 @@ End-to-end no-code ML exploration and training environment.
 
 ---
 
-### DSAgent — Autonomous Data Science Agent
-
-AI agent that analyzes datasets and generates insights, models, and reports automatically.
-
-* Next.js + Clerk Auth + Three.js + Tailwind
-* Autonomous pipeline: upload → analyze → visualize → model
-* Interactive UI with custom 3D data visualizations
-* Secure dashboard with protected routes
-* Built as a full-stack intelligent system, not just a UI wrapper
-
-> Includes middleware-based auth protection and modern UI system design 
-
----
 
 ### TurboS / Mediflow — Hospital Workflow Automation System
 
