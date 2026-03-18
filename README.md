@@ -19,12 +19,13 @@ Turning abstract ideas into working systems.
 ### DSAgent — Autonomous Data Science Agent (ongoing)
 
 AI agent that analyzes datasets and generates insights, models, and reports automatically.
+
 🔗https://jatin-dsagent.vercel.app/
 * Next.js + Clerk Auth + Three.js + Tailwind + Render
 * Autonomous pipeline: upload → analyze → visualize → model
 * Interactive UI with custom 3D data visualizations
 * Secure dashboard with protected routes
-* Built as a full-stack intelligent system, not just a UI wrapper
+* Built as a full-stack intelligent system.
 
 > Includes middleware-based auth protection and modern UI system design 
 
