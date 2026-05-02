@@ -101,8 +101,8 @@ Docker, Git, ngrok, Expo
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinnathh&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinnathh&layout=compact&theme=radical" height="180" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jatinnathh&show_icons=true&theme=radical" height="180" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinnathh&layout=compact&theme=radical" height="180" /> -->
   <img src="https://streak-stats.demolab.com?user=jatinnathh&theme=radical&hide_border=true&v=1" height="180" />
 </p>
 
