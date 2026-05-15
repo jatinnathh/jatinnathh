@@ -1,7 +1,6 @@
 # Jatin Nath
 
-Data Scientist · Full-stack builder · AI systems engineer
-Turning abstract ideas into working systems.
+ideas into working systems.
 
 ---
 
