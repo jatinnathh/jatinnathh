@@ -20,7 +20,7 @@ Turning abstract ideas into working systems.
 
 AI agent that analyzes datasets and generates insights, models, and reports automatically.
 
-🔗https://jatin-dsagent.vercel.app/
+https://jatin-dsagent.vercel.app/
 * Next.js + Clerk Auth + Three.js + Tailwind + Render
 * Autonomous pipeline: upload → analyze → visualize → model
 * Interactive UI with custom 3D data visualizations
@@ -34,6 +34,7 @@ AI agent that analyzes datasets and generates insights, models, and reports auto
 
 
 ### NeuroFusion — AI Text-to-Image
+http://51.21.222.225
 
 Custom diffusion pipeline for text-to-image and image-to-image generation.
 
@@ -54,7 +55,7 @@ End-to-end no-code ML exploration and training environment.
 * Tracks models trained + datasets processed
 * Built for speed and usability
 
-🔗 http://51.21.222.225:8501/
+http://51.21.222.225:8501/
 
 ---
 
