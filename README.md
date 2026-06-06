@@ -5,7 +5,7 @@ ideas into working systems.
 ---
 
 ## About
-
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,nodejs,fastapi,docker,mysql,git" height="180" />
 * Currently at **Indian Institute of Information Technology, Kottayam**
 * Former intern at **Innova Solutions**
 * Work spans **Data Science**, **Deep Learning**, **Reinforcement Learning**
@@ -19,7 +19,7 @@ ideas into working systems.
 
 AI agent that analyzes datasets and generates insights, models, and reports automatically.
 
-https://jatin-dsagent.vercel.app/
+https://dsagentjatin.xyz/
 * Next.js + Clerk Auth + Three.js + Tailwind + Render
 * Autonomous pipeline: upload → analyze → visualize → model
 * Interactive UI with custom 3D data visualizations
