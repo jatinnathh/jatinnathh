@@ -102,7 +102,7 @@ Docker, Git, ngrok, Expo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jatinnathh&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinnathh&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatinnathh&theme=react-dark&hide_border=true" height="180" />
 </p>
 
 <p align="center">
