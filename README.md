@@ -5,7 +5,8 @@ ideas into working systems.
 ---
 
 ## About
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,nodejs,fastapi,docker,mysql,git" height="180" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,nodejs,fastapi,docker,postgres,git" height="180" />
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black)
 * Currently at **Indian Institute of Information Technology, Kottayam**
 * Former intern at **Innova Solutions**
 * Work spans **Data Science**, **Deep Learning**, **Reinforcement Learning**
