@@ -5,20 +5,25 @@ ideas into working systems.
 ---
 
 ## About
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,nodejs,fastapi,docker,postgres,git" height="180" />
 
+<table>
+<tr>
+<td width="65%">
 
-* Currently at **Indian Institute of Information Technology, Kottayam**
-* Former intern at **Innova Solutions**
-* Work spans **Data Science**, **Deep Learning**, **Reinforcement Learning**
-* Shipping with **React Native**, **FastAPI**, **Streamlit**, **Diffusion**, **Docker**, **MySQL**
+- Currently at **Indian Institute of Information Technology, Kottayam**
+- Former intern at **Innova Solutions**
+- Work spans **Data Science**, **Deep Learning**, **Reinforcement Learning**
+- Shipping with **React Native**, **FastAPI**, **Streamlit**, **Diffusion**, **Docker**, **MySQL**
 
----
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3c0b2pibW51cHk5cHhtZjlsYnJ4eDdxb2M3ZWE3bG00Z3U4ZjI0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
+</td>
 
+<td width="35%" align="center">
 
-</p>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3c0b2pibW51cHk5cHhtZjlsYnJ4eDdxb2M3ZWE3bG00Z3U4ZjI0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ## Selected Work
 
