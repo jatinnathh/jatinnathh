@@ -128,7 +128,7 @@ Docker, Git, ngrok, Expo
 
 * LinkedIn: https://www.linkedin.com/in/jatinnath1
 * Email: **[jatinnath1111@gmail.com](mailto:jatinnath1111@gmail.com)**
-
+![Profile Views](https://komarev.com/ghpvc/?username=jatinnathh&color=blue)
 ---
 
 Not chasing trends. Building systems that last.
