@@ -109,21 +109,17 @@ MySQL, PostgreSQL, SQLite, MongoDB
 Docker, Git, ngrok, Expo
 
 ---
-
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinnathh&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatinnathh&theme=react-dark&hide_border=true" height="180" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=jatinnathh&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jatinnathh&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinnathh&theme=radical" width="90%" />
 </p>
+
+---
 
 ## Contact
 
