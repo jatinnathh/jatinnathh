@@ -120,7 +120,7 @@ Docker, Git, ngrok, Expo
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=jatinnathh&theme=radical" height="180" />
 </p>
-
+<p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=jatinnathh&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" height="250" /> </p>
 
 ---
 
